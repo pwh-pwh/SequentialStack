@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/CH/CLionProjects/SequentialStack/Calculator.cpp
+Calculator.h
+D:/Users/CH/CLionProjects/SequentialStack/Calculator.h
+
+D:/Users/CH/CLionProjects/SequentialStack/Calculator.h
+math.h
+-
+SeqStack.h
+D:/Users/CH/CLionProjects/SequentialStack/SeqStack.h
+iostream
+-
+
+D:/Users/CH/CLionProjects/SequentialStack/SeqStack.h
+iostream
+-
+Stack.h
+D:/Users/CH/CLionProjects/SequentialStack/Stack.h
+assert.h
+-
+
+D:/Users/CH/CLionProjects/SequentialStack/Stack.h
+
